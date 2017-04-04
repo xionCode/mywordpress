@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+/*
+Theme Name: WikiWP Child
+Author: xiontime
+Description: Child theme for the WikiWP theme
+Template: wikiwp
+Version: 0.1.0
+*/
+
+@import url("../wikiwp/style.css")
+
+#
